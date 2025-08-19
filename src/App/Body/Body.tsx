@@ -20,7 +20,7 @@ import { GlCheckList } from "gitlanding/GlCheckList";
 import tileSvgUrl from "assets/svg/tile.svg";
 import keycloakifyDemoMp4Url from "assets/video/Keycloakify_demo.mp4";
 import keycloakifyDemoWebmUrl from "assets/video/Keycloakify_demo.webm";
-import { GlYoutubeVideoSection } from "gitlanding/GlYoutubeVideoSection";
+//import { GlYoutubeVideoSection } from "gitlanding/GlYoutubeVideoSection";
 import { GlSlider } from "gitlanding/GlSlider";
 import { GlSectionDivider } from "gitlanding/GlSectionDivider";
 import { GlReviewSlide } from "gitlanding/GlReviewSlide";
@@ -71,6 +71,7 @@ export function Body() {
           margin: "auto",
         })}
       />
+      {/*
       <GlYoutubeVideoSection
         className={css({
           marginTop: theme.spacing(7),
@@ -79,6 +80,7 @@ export function Body() {
         src="https://www.youtube.com/embed/FvpNfVrxBFM"
         hasAnimation={true}
       />
+      */}
       <GlArticle
         title={t("what is onyxia title")}
         body={t("what is onyxia body")}
