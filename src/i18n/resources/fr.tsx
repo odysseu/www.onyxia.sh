@@ -66,7 +66,7 @@ export const translations: Translations<"fr"> = {
 
     "They have their own Onyxia Datalab": "Ils ont leur Datalab Onyxia",
     "Review slide insee description": `La véritable innovation c'est de rendre simple quelque chose de quasi impossible.  
-    C'est l'essence même d Onyxia qui met à la portée du plus grand nombre la mise en place à la demande d'environnements 
+    C'est l'essence même d'Onyxia qui met à la portée du plus grand nombre la mise en place à la demande d'environnements 
     sophistiqués pour la Datascience. Je suis extrêmement fier que l'[Insee](https://www.insee.fr/fr) ait lancé le développement de ce logiciel et porte 
     toujours des contributeurs majeurs mais aussi enthousiaste qu'une communauté se mette en marche pour enrichir collectivement 
     ses fonctionnalités.`,
