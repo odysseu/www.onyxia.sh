@@ -89,7 +89,7 @@ export const translations: Translations<"fr"> = {
 
     "Review slide ExpertiseFrance description": `Le  projet datafid, mis en œuvre par [Expertise France, a déployé Onyxia](https://www.expertisefrance.fr/en/fiche-projet?id=850376)  
     pour proposer un datalab aux datascientists des Directions Générales des Impôts et des Douanes de quatre pays de l'Afrique de l'ouest. 
-    L’outil  permet à ces administrations de s’exercer à la manipulation de leurs  données pour mieux les comprendre et les valoriser.
+    L'outil  permet à ces administrations de s'exercer à la manipulation de leurs données pour mieux les comprendre et les valoriser.
     `,
     "Review slide ExpertiseFrance signature": `Expertise France, l'agence française d'expertise technique internationale`,
 
