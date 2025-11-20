@@ -54,7 +54,7 @@ export const translations: Translations<"en"> = {
 
     "bp title 5": "Great for education ",
     "bp description 5": `Onyxia enables you to generate links that start a service just by clicking them.  
-            It is used to create training catalogs such as [this one](https://www.sspcloud.fr/formation).`,
+            It is used to create training catalogs such as [this one](https://www.sspcloud.fr/catalog).`,
 
     "bp title 6": "Technology agnostic",
     "bp description 6": `By making the choice of Onyxia you aren't gambling on one specific stack being the future of Data science.  

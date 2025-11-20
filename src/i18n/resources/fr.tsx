@@ -57,7 +57,7 @@ export const translations: Translations<"fr"> = {
 
     "bp title 5": "Un environnement de formation",
     "bp description 5": `Onyxia permet de générer des liens de lancement de service.  
-        Cette fonctionalité peut être utilisée pour créer des catalogues de formations comme [celui-là](https://www.sspcloud.fr/formation).`,
+        Cette fonctionalité peut être utilisée pour créer des catalogues de formations comme [celui-là](https://www.sspcloud.fr/catalog).`,
 
     "bp title 6": "Technologiquement agnostique",
     "bp description 6": `Avec Onyxia vous n'investissez pas sur une stack technique en particulier sauf Kubernetes et S3.
