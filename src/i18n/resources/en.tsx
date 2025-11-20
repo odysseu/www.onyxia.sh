@@ -82,7 +82,7 @@ export const translations: Translations<"en"> = {
     "Review slide Statistic Norway signature":
       "Statistics Norway, the national statistical institute of Norway",
 
-    "Review slide ExpertiseFrance description": `The datafid project, implemented by [Expertise France, deployed Onyxia](https://www.expertisefrance.fr/en/fiche-projet?id=850376) 
+    "Review slide ExpertiseFrance description": `The datafid project, implemented by [Expertise France, deployed Onyxia](https://www.expertisefrance.fr/en/our-projects) 
             to provide a datalab for the data scientists of the General Directorates of Taxes and Customs of four West African countries. 
             The tool allows these administrations to practice manipulating their data to better understand and value it.
         `,
